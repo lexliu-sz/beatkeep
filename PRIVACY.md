@@ -1,6 +1,6 @@
 # Beatkeep Privacy Policy
 
-_Last updated: 2026-05-12_
+_Last updated: 2026-05-14_
 
 Beatkeep does not collect, transmit, or store any user data.
 
@@ -13,4 +13,4 @@ The app runs entirely on your device. It does not:
 
 There is nothing to share, sell, or breach.
 
-If you have questions, email **lxenu@netease.com**.
+If you have questions, email **lexliu@qq.com**.
