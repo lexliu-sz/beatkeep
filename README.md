@@ -11,7 +11,7 @@ A tap-tempo meter that grades how consistent your taps are. iPhone & iPad, free,
 
 ## Support
 
-Email: **lxenu@netease.com**
+Email: **lexliu@qq.com**
 
 ## Privacy
 
